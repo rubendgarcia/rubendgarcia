@@ -1,7 +1,7 @@
-👋 Hi, I’m Ruben Garcia
-👀 I’m interested in being better
-🌱 I’m currently learning python, java, php, javascript, etc
-💞️ I’m looking to collaborate on anything?
-📫 How to reach me: rubgarcialopez@gmail.com
-😄 Pronouns: Stupid shit
-⚡ Fun fact: Im a happy stupid shit
+- 👋 Hi, I’m Ruben Garcia
+- 👀 I’m interested in being better
+- 🌱 I’m currently learning python, java, php, javascript, etc
+- 💞️ I’m looking to collaborate on anything?
+- 📫 How to reach me: rubgarcialopez@gmail.com
+- 😄 Pronouns: Stupid shit
+- ⚡ Fun fact: Im a happy stupid shit
